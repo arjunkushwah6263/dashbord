@@ -1,0 +1,46 @@
+
+.header-container {
+    background-color: #12c621; 
+    color: #fff; 
+    padding: 20px 0; 
+    text-align: center; 
+  }
+  
+  .header {
+    max-width: 960px; 
+    margin: 0 auto; 
+  }
+  
+  .header h1 {
+    margin: 0; 
+    font-size: 24px; 
+    font-weight: bold; 
+  }
+  
+  .nav-container {
+    background-color: #12c621; 
+    color: #fff; 
+    padding: 20px 0; 
+    text-align: center; 
+  }
+  .navigation {
+  
+    padding: 50;
+    margin-left: 50;
+  }
+  
+  .navigation li {
+    display: inline-block;
+    text-align: center;
+    margin-right: 150px;
+    margin-left: 150;
+  }
+  
+  
+  .nav-link {
+    text-decoration: none; 
+    
+  }
+
+  
+  
